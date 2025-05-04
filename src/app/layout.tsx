@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BMI Calculator",
+  title: "BMI Buddy",
   description: "Automated BMI calculator for your health needs",
   keywords: "BMI, Calculator, BMI Calculator, Health Calculator, Underweight, Normal, Overweight, Obese",
 };

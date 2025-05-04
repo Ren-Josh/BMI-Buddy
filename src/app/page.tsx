@@ -24,6 +24,7 @@ export default function Home() {
   const removeValue = () => {
     setWeight('');
     setHeight('');
+    setBMI(null);
   }
 
   const getBMIRemark = (bmi: number) => {
